@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Зумба!
 
-You can use the [editor on GitHub](https://github.com/activf2017/zumba/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##Зумба. Королев Фитнес студия АКТИВ
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![ Зумба. Королев Фитнес студия АКТИВ](https://github.com/activf2017/zumba/blob/master/%D0%B7%D1%83%D0%BC%D0%B1%D0%B0%20%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2-ANIMATION.gif?raw=true)
 
-### Markdown
+http://activf2017.blogspot.com/
+[Зумба. Королев Фитнес студия АКТИВ](http://activf2017.blogspot.com/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/activf2017/zumba/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<a href="https://activf2017.blogspot.ru/"><img alt="Актив студия фитнеса Королёв" src="https://avatars1.githubusercontent.com/u/37883500?s=200&v=4" height="150" width="150" border="0" /></a>
